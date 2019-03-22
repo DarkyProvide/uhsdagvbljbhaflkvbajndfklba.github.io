@@ -1,0 +1,153 @@
+html {
+    margin: 0;
+    background: url("https://politeka.net/wp-content/uploads/2018/02/1-2-2.jpg") no-repeat fixed;
+    background-size: cover;
+}
+body {
+    height: 1450px;
+    border-radius: 30px;
+    margin-top: 95px;
+    margin-right: 120px;
+    margin-left: 120px;
+    background-color: #b3d4fc;
+    opacity: 0.9;
+    padding: 7px;
+    position: revert;
+}
+.head {
+    height: 40px;
+    position: revert;
+}
+.ONE_IMG {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    opacity: 0.5;
+    position: absolute;
+    left: 1165px;
+    bottom: 500px;
+}
+.ONE_IMG:hover {
+    opacity: 1;
+}
+.TWO_IMG {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 270px;
+    top: 105px;
+}
+p {
+    font-size: 1rem;
+    font-style: italic;
+}
+span{
+    margin-left: 5px;
+    font-size: 20px;
+    position: revert;
+    top: 0;
+    font-weight: bold;
+}
+.THREE_IMG {
+    position: absolute;
+    width: 800px;
+    height: 450px;
+    left: 430px;
+    bottom: 25px;
+}
+.ZIR_IMG {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 190px;
+    top: 105px;
+}
+.p1 {
+    text-shadow: 0 2px 5px rgba(0,0,0,1);
+    color: orange;
+    position: absolute;
+    left: 870px;
+    top: 100px;
+}
+.aa {
+    font-size: 30px;
+    color: blueviolet;
+    position: absolute;
+    left: 875px;
+    top: 200px;
+}
+.ab {
+    font-size: 17px;
+    color: darkslateblue;
+    position: absolute;
+    left: 840px;
+    top: 240px;
+}
+.ac {
+    font-size: 30px;
+    color: blueviolet;
+    position: absolute;
+    left: 125px;
+    top: 200px;
+}
+.ad {
+    font-size: 17px;
+    color: darkslateblue;
+    position: absolute;
+    left: 125px;
+    top: 240px;
+}
+.ap {
+    font-size: 17px;
+    color: darkslateblue;
+    position: absolute;
+    left: 350px;
+    top: 650px;
+}
+.ag {
+    font-size: 13px;
+    color: darkslateblue;
+    position: absolute;
+    left: 325px;
+    top: 1190px;
+}
+.aw {
+    font-size: 13px;
+    color: darkslateblue;
+    position: absolute;
+    left: 860px;
+    top: 1180px;
+}
+.FOUR_IMG {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 500px;
+}
+.FIFE_IMG {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 820px;
+    top: 550px;
+}
+.SIX_IMG {
+    width: 600px;
+    position: absolute;
+    top: 950px;
+    left: 100px;
+}
+.SEVEN_IMG {
+    width: 600px;
+    position: absolute;
+    top: 960px;
+    left: 650px;
+}
+.qw {
+    position: absolute;
+    width: 1095px;
+    top: 950px;
+}
+.ar {
+
+}
